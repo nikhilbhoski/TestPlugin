@@ -1,4 +1,4 @@
-package matlabjenkins.matlabjnk;
+package mytooljenkins.matlabjnk;
 
 @SuppressWarnings("rawtypes")
 public class HelloMytool  extends Builder implements SimpleBuildStep{
